@@ -8,17 +8,17 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: minimal
+  font: native
   font_size: L
 
 # SEO
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
+    description: 'YingmingQu'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -63,8 +63,10 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
+    enable: false
+    extra_languages:
+      - r
+      - latex
   math:
     enable: false
   privacy_pack:
@@ -106,9 +108,17 @@ extensions:
   cms:
     branch: main
     local_backend: false
+  isotope:
+    # Enable if you use the Portfolio widget or Publication filter
+    enable: true
   academicons:
     enable: true
+# Citation style
 
+publications:
+  date_format: January 2006
+  citation_style: apa
+  
 # Security
 
 security:
