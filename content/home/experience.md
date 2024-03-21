@@ -29,11 +29,8 @@ experience:
     location: Qingdao, China
     date_start: '2022-12-01'
     date_end: ''
-    description: |2-
-        Research interests:
-        
-        * Seismic Wave Propagation and Imaging, Computational Geophysics, Artificial Intelligence
-        
+    description: 
+
   - title: Associate Professor, doctoral supervisor
     company: China University of Petroleum (East China)
     company_url: 'https://www.upc.edu.cn/'
@@ -51,7 +48,6 @@ experience:
     date_start: '2018-09-01'
     date_end: '2019-08-01'
     description: 
-
 design:
   columns: '2'
 ---
