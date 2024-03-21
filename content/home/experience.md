@@ -41,8 +41,8 @@ experience:
     description:  
 
   - title: Associate Professor, master supervisor
-    company: China University of Petroleum (East China)
-    company_url: 'https://www.upc.edu.cn/'
+    company: China University of Petroleum (East China)
+    company_url: 'https://www.upc.edu.cn/'
     company_logo: org-gc
     location: Qingdao,China
     date_start: '2018-09-01'
