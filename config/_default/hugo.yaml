@@ -19,6 +19,8 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
+params:
+  description: 'YingmingQu'
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
