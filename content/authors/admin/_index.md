@@ -10,7 +10,7 @@ role: Professor of Geophysics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: SChina University of Petroleum
+  - name: China University of Petroleum
     url: 'https://www.upc.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)

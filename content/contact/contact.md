@@ -44,7 +44,7 @@ content:
     - icon: linkedin
       icon_pack: fab
       name: DM Me
-      link: https://www.linkedin.com/in/jidong-yang-144088136/
+      link: https://www.linkedin.com/in/yingming-qu-144088136/
     - icon: video
       icon_pack: fas
       name: Zoom Me
