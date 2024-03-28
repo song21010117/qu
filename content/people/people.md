@@ -34,7 +34,7 @@ table th:first-of-type {
 
 |                                                              |                                                              |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| <img align="left" src="people.assets/dingzezheng.jpg" width="80%" /> | **2020-Present, Zezheng Ding: Deep Learning for seismic imaging and inversion**<br />Jiaxing Sun graduated from China University of Petroleum (Beijing) with a master’s degree in Geoscience in June 2020. She joined the China University of Petroleum (East China) in September 2020 and started pursuing Ph.D. Her current work mainly focused on using the deep learning for seismic AVO inversion, least-squares migration, diffraction/reflection separation and wavefield separation. In her free time, she loves outdoor activities such as climbing and skiing. |
+| <img align="left" src="people.assets/dingzezheng.jpg" width="80%" /> | **2020-Present, Zezheng Ding: Deep Learning for seismic imaging and inversion**<br />Jiaxing Sun graduated from China University of Petroleum (Beijing) with a master’s degree in Geoscience in June 2020. She joined the China University of Petroleum (East China) in September 2020 and started pursuing Ph.D. Her current work mainly focused on using the deep learning for seismic AVO inversion, least-squares migration, diffraction/reflection separation and wavefield separation. In her free time, she loves outdoor activities such as climbing。 |
 
 
 
