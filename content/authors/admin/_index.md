@@ -18,9 +18,12 @@ bio: My research interests include seismic wave propagation and imaging, computa
 
 # Interests to show in About widget
 interests:
-  - Seismic Wave Propagation and Imaging
-  - Computational Geophysics
-  - Artificial Intelligence
+  - Dual complex structural forward simulation, velocity inversion, and imaging：Achieve deep seismic wave simulation and imaging under dual-complex conditions.
+  - Viscous and anisotropic medium seismic wave simulation and imaging： Achieve accurate imaging of deep layers using theories that better match the Earth's medium.
+  - Seismic imaging in complex land and marine environment： Solve the problems and challenges faced in deep-land and -sea environment seismic imaging.
+  - Migration methods for low-quality seismic data： Improve imaging energy, SNR, resolution and fidelity when handling low-quality seismic data.
+  - Multi-component elastic wave imaging： Overcome the bottleneck of multi-component imaging technology.
+  - Intelligent imaging for geological targets： Improve the imaging accuracy of specific targets based on artificial intelligence technology.
 
 # Education to show in About widget
 education:
